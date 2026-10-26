@@ -1,0 +1,18 @@
+{
+  "denoised_deepmao_ir_aruco.png": "https://arxiv.org/html/2510.04883v2/images/denoised_deepmao_ir_aruco.png",
+  "image_ZeroDCE.png": "https://arxiv.org/html/2510.04883v2/images/results/image_ZeroDCE.png",
+  "detected_objects_ir_original.png": "https://arxiv.org/html/2510.04883v2/images/detected_objects_ir_original.png",
+  "ir_aruco.png": "https://arxiv.org/html/2510.04883v2/images/ir_aruco.png",
+  "denoised_ir_deepmao.png": "https://arxiv.org/html/2510.04883v2/images/results/denoised_ir_deepmao.png",
+  "low_traj_xz3.svg": "https://arxiv.org/html/2510.04883v2/low_traj_xz3.svg",
+  "ext_traj_xz3.svg": "https://arxiv.org/html/2510.04883v2/ext_traj_xz3.svg",
+  "denoised_ir.png": "https://arxiv.org/html/2510.04883v2/images/results/denoised_ir.png",
+  "rgb.png": "https://arxiv.org/html/2510.04883v2/images/results/rgb.png",
+  "retinex_corrected_rgb.png": "https://arxiv.org/html/2510.04883v2/images/results/retinex_corrected_rgb.png",
+  "clahe_rgb.png": "https://arxiv.org/html/2510.04883v2/images/results/clahe_rgb.png",
+  "ir.png": "https://arxiv.org/html/2510.04883v2/images/results/ir.png",
+  "image_CIDNet.png": "https://arxiv.org/html/2510.04883v2/images/results/image_CIDNet.png",
+  "image_LLFormer.png": "https://arxiv.org/html/2510.04883v2/images/results/image_LLFormer.png",
+  "deepmao_ir1_00135_1059ms.png": "https://arxiv.org/html/2510.04883v2/images/deepmao_ir1_00135_1059ms.png",
+  "gt_rgb.png": "https://arxiv.org/html/2510.04883v2/images/results/gt_rgb.png"
+}

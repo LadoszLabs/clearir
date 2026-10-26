@@ -1,0 +1,12 @@
+{
+  "title": "CLEAR-IR: Clarity-Enhanced Active Reconstruction of Infrared Imagery for low-light enhancement",
+  "authors": [
+    "Nathan Shankar",
+    "Marton Gonczy",
+    "Hujun Yin",
+    "Pawel Ladosz"
+  ],
+  "version": "2510.04883v2",
+  "abstract": "This paper presents a novel approach for enabling robust robotic perception in dark environments using infrared (IR) stream. IR stream is less susceptible to noise than RGB in low-light conditions. However, it is dominated by active emitter patterns that hinder high-level tasks such as object detection, tracking and localisation. To address this, a Deep Multi-scale Aware Overcomplete (DeepMAO) inspired architecture is proposed that reconstructs clean IR images from emitter populated input, improving both image quality and downstream robotic performance. This approach outperforms existing enhancement techniques and enables reliable operation of vision driven robotic systems across illumination conditions from well-lit to extreme low-light scenes. The results outline the ability of this work to be able to mimic RGB styling from the scene and its applicability on robotics tasks that were trained on RGB images, opening the possibility of doing these tasks in extreme low-light without on-board lighting.",
+  "citation": "@misc{shankar2025clearir,\n  title         = {CLEAR-IR: Clarity-Enhanced Active Reconstruction of\n                   Infrared Imagery for low-light enhancement},\n  author        = {Nathan Shankar and Marton Gonczy and Hujun Yin\n                   and Pawel Ladosz},\n  year          = {2025},\n  eprint        = {2510.04883},\n  archivePrefix = {arXiv},\n  primaryClass  = {cs.RO},\n  note          = {Version 2, 27 February 2026},\n  url           = {https://arxiv.org/abs/2510.04883v2}\n}"
+}
